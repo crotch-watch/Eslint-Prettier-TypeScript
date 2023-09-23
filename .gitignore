@@ -1,4 +1,6 @@
 node_modules/
 
-# All js files in src folder 
+# All non-TS files in src folder 
 src/**/*.js
+src/**/*.d.ts
+src/**/*.map
