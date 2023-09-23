@@ -1,0 +1,23 @@
+{
+  "name": "eslint-prettier-typescript",
+  "version": "0.0.1",
+  "description": "Integrating ESLint and Prettier in TypeScript based projects. In Future in will be the base of a porject template",
+  "keywords": [
+    "Eslint",
+    "Prettier",
+    "TypeScript"
+  ],
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crotch-watch/Eslint-Prettier-TypeScript"
+  },
+  "scripts": {
+    "lint": ""
+  },
+  "devDependencies": {
+    "typescript": "~5.2.2"
+  }
+}
