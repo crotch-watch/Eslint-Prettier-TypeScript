@@ -1,1 +1,4 @@
 node_modules/
+
+# All js files in src folder 
+src/**/*.js
