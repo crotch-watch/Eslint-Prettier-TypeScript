@@ -1,7 +1,10 @@
 type bool = true | false;
 
-console.log()
+export async function func1(arg: bool): Promise<bool> {
+  const dummy = null;
 
-export async function func1(arg: bool) {
-  return true;
+  if (dummy) return Promise.resolve(arg);
+  return Promise.resolve(arg);
 }
+
+void func1(true);
